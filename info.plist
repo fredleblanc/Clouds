@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>serq@serqud.pbz</string>
+	<key>contactName</key>
+	<string>Fred LeBlanc</string>
+	<key>description</key>
+	<string>A light and airy theme.
+Plays nicely with HTML, JavaScript, CSS &amp; PHP.</string>
+	<key>name</key>
+	<string>Clouds</string>
+	<key>uuid</key>
+	<string>4E42B84B-1FB6-4642-B3FF-8AD6564CF117</string>
+</dict>
+</plist>
